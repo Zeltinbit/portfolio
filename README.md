@@ -18,3 +18,7 @@ This project showcases my skills, projects, education, and journey as a Software
 - Add React version
 - Add animations
 - Deploy online
+
+## deploy link
+
+https://tinbite-portfolio.netlify.app/
